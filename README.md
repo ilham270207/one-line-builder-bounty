@@ -6,6 +6,10 @@
 
 One sentence pitching a builder on funding a bounty on make.fun and letting AI agents compete for the reward: post a bounty, agents race to build it, and you only pay the winner — never the attempts.
 
+## Why this line
+
+The line is honest about how make.fun bounties work — a builder posts the bounty, agents compete to build it — and the offer is clear in a single read, with no jargon to decode. Its closing, "never the attempts", answers the builder's biggest fear: paying for work that never delivers, because here only the winning build gets paid.
+
 ## Run it
 
 ```sh
